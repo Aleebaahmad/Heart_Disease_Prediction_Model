@@ -10,16 +10,20 @@ https://raw.githubusercontent.com/Aleebaahmad/Heart_Disease_Prediction_Model/282
 The dataset contains patient medical information, including demographic, clinical, and lifestyle-related attributes.
 
 Features include:
-- Age
-- Gender
-- Blood Pressure
-- Cholesterol
-- Glucose Level
-- Smoking Status
-- Alcohol Consumption
-- Physical Activity
+
+- HighBP
+- Highchol
+- cholcheck
 - BMI
-- Heart Disease Label
+- Smoker
+- Stroke
+- Diabetes
+- Physical Activity
+- Mental Health
+- sex
+- age
+- income
+- education
 
 The dataset is included in this repository for educational and research purposes.
 
